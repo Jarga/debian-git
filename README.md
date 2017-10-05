@@ -1,2 +1,2 @@
 # debian-git
-Debian Docket Image with Git
+Debian Docker Image with Git
