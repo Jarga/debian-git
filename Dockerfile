@@ -1,5 +1,5 @@
 FROM node:4.6.1-wheezy
-MAINTAINER Sean McAdams <Sen.Mcadams@str8studios.com>
+MAINTAINER Sean McAdams <Sean.Mcadams@str8studios.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
